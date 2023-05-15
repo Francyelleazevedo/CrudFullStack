@@ -1,0 +1,15 @@
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\bin\Debug\net6.0\CadastroCliente.deps.json
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\bin\Debug\net6.0\CadastroCliente.dll
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\bin\Debug\net6.0\CadastroCliente.pdb
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\bin\Debug\net6.0\Dominio.dll
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\bin\Debug\net6.0\Dominio.pdb
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.csproj.AssemblyReference.cache
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.AssemblyInfoInputs.cache
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.AssemblyInfo.cs
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.csproj.CopyComplete
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.dll
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\refint\CadastroCliente.dll
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\CadastroCliente.pdb
+C:\Users\francyelle\Documents\ProjetoFullStack\CadastroCliente\CadastroCliente\obj\Debug\net6.0\ref\CadastroCliente.dll

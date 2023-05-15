@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVMRw20fI5210o7Pmdav8/cIazeU4HkBKfzxURARDmLTJEB70ZtbBYjUbqi9Lr/3fUKEYUrM5NIFvZCldQItvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francyelle\\Documents\\ProjetoFullStack\\CadastroCliente\\CadastroCliente\\CadastroCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francyelle\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\francyelle\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\francyelle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

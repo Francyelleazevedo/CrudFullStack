@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+gWrZ6SAXIii0NY+dhBx2l+Mv2xQNIDL87qQoPg//f69zHq3G16C/L0NjTbovbEBJ88I0Hf9LS8FNG4G6oL6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francyelle\\Documents\\ProjetoFullStack\\Dominio\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francyelle\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
